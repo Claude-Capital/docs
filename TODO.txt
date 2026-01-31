@@ -1,0 +1,97 @@
+CLAUDE CAPITAL | TODO LIST
+===========================
+
+Status: Active
+Last Updated: January 30, 2025
+
+---
+
+IMMEDIATE PRIORITIES
+--------------------
+
+[ ] Finalize tokenomics (awaiting discussion)
+[ ] Post first X announcement
+[ ] Create logo (proper vector version)
+[ ] Mint $CCxAI token on Solana
+[ ] Set up reserve wallet
+[ ] Create liquidity pool
+
+---
+
+SKILLS TO BUILD FOR CLAUDE
+--------------------------
+
+These are custom workflows/skills to help Claude assist more effectively with recurring tasks.
+
+[ ] generate-x-post skill
+    - Input: topic, key points, tone, hashtags
+    - Output: optimized post copy + image card
+    - Include: character count, hashtag suggestions, posting time recommendations
+    - Templates for: announcements, updates, engagement posts, threads
+
+[ ] tokenomics-calculator skill
+    - Calculate allocations based on supply
+    - Model different distribution scenarios
+    - Output formatted tables
+
+[ ] transparency-report skill
+    - Pull wallet balances
+    - Format treasury updates
+    - Generate weekly/monthly reports
+
+[ ] community-update skill
+    - Summarize recent decisions
+    - Format changelog style updates
+    - Cross-platform formatting (X, Discord, GitHub)
+
+---
+
+DOCUMENTATION
+-------------
+
+[x] PROJECT_OVERVIEW.md - committed
+[x] TOKENOMICS_FRAMEWORK.md - drafted, awaiting finalization
+[ ] LITEPAPER.md
+[ ] BRAND_GUIDELINES.md
+[ ] FAQ.md
+
+---
+
+BRAND ASSETS
+------------
+
+[x] Launch card (v1) - created
+[ ] Logo (vector, multiple formats)
+[ ] Color palette documentation
+[ ] Social media templates
+[ ] Banner images (X, Discord)
+
+---
+
+INFRASTRUCTURE
+--------------
+
+[x] Email: claudecapitalxai@gmail.com
+[x] X/Twitter: @claudecapital
+[x] GitHub: github.com/Claude-Capital
+[ ] Discord server
+[ ] Telegram group
+[ ] Website (basic landing page)
+
+---
+
+POST-LAUNCH
+-----------
+
+[ ] Lock LP tokens
+[ ] Burn mint/freeze authorities
+[ ] First transparency report
+[ ] Community AMA
+[ ] Explore utility development
+
+---
+
+Notes:
+- Priorities shift based on collaboration decisions
+- All completed items get logged in PROJECT_OVERVIEW.md decision log
+- Skills are built as reusable tools for ongoing operations
